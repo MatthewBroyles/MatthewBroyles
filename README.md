@@ -13,7 +13,7 @@ I am a software engineer student with a passion of backend development and autom
 - Would love to find work as a junior software engineer or any position that I can show off my talents
 - Love grinding leetcode in my free time. Solving problems is one of my favorite hobbies.
 - Love puzzle games aswell and escape rooms!
-- Cant wait to share some of the projects I'm working on
+- Can't wait to share some of the projects I'm working on
 - Pet my dog :)
 
 **What've I been up to this week?** 
