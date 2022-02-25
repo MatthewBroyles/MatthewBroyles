@@ -11,7 +11,7 @@ I am a software engineer student with a passion of backend development and autom
 - Currently studying at a bootcamp called Tech Elevator
 - Learning absolutely everything I can get my hands on
 - Would love to find work as a junior software engineer or any position that I can show off my talents
-- Love grinding leetcode in my free time. Solving problems is one of my favorite hobbies.
+- Love grinding leetcode in my free time. Solving problems is one of my favorite hobbies and pass times. Currently fascinated with recursion and the complexity behind it.
 - Love puzzle games aswell and escape rooms!
 - Can't wait to share some of the projects I'm working on
 - Pet my dog :)
