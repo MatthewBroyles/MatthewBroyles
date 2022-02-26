@@ -1,6 +1,6 @@
 ### Hey!! I'm Matthew Broyles :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ella-rekow-95985a182/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewmbroyles/)
 
 ### Nice to see you!
 I am a software engineer student with a passion of full stack development and automation. I also have a great interest in Ai and machine learning. I hope to bring my passion and talent to improve any team!
